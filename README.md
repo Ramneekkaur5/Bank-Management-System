@@ -1,12 +1,13 @@
-# Bank-Management-System
-This is a simple Bank Management System built using Python, Pandas, and CSV.
-It allows you to manage accounts with features like:
--View existing accounts
--Deposit money
--Withdraw money
--Check balance
--Add new accounts
--Delete accounts
+### Bank-Management-System
+This is a simple **Bank Management System** built using **Python and CSV**.  
+It allows users to manage bank accounts with features like:
+
+- View existing accounts  
+- Deposit money  
+- Withdraw money  
+- Check balance  
+- Add new accounts  
+- Delete accounts  
 ------
 ### How to Run
 1. Make sure you have **Python 3** installed.  
