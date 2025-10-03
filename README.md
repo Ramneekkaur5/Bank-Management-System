@@ -24,7 +24,11 @@ It allows users to manage bank accounts with features like:
 
 -------
 ### Future Improvements
+
 -Add a GUI using Tkinter or Flask
+
 -Add password protection for accounts
+
 -Maintain transaction history
+
 -Export reports as PDF/Excel
